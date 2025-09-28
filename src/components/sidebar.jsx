@@ -42,7 +42,7 @@ export default function Sidebar() {
       </nav>
 
       <div className="mt-6 border-t border-gray-800 pt-4 text-xs text-gray-400">
-        © {new Date().getFullYear()} Partner CRM
+        © {new Date().getFullYear()} Partner CRM CORP
       </div>
     </aside>
   );
